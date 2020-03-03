@@ -19,7 +19,9 @@ namespace WumpusTest
             InitializeComponent();
 
             gameController = new GameControl(GameState.PlayingGame);
-            splScreen = new SplashScreen("Did you know that Bats can see in the dark?", 5); 
+            splScreen = new SplashScreen("Did you know that Bats can see in the dark?", 5);
+            Console.Write("Test");
+
             
         }
 
