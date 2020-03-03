@@ -1,0 +1,7 @@
+C:\Users\taufe.DESKTOP-U2KV46G\OneDrive - Lake Washington School District\4 AP Computer Science\WUMPUS FILES\Taufeeq Ali (Game Control)\WumpusTest\GameControl\obj\Debug\WumpusTest.csprojAssemblyReference.cache
+C:\Users\taufe.DESKTOP-U2KV46G\OneDrive - Lake Washington School District\4 AP Computer Science\WUMPUS FILES\Taufeeq Ali (Game Control)\WumpusTest\GameControl\obj\Debug\WumpusTest.GameControlMainMenuForm.resources
+C:\Users\taufe.DESKTOP-U2KV46G\OneDrive - Lake Washington School District\4 AP Computer Science\WUMPUS FILES\Taufeeq Ali (Game Control)\WumpusTest\GameControl\obj\Debug\WumpusTest.GUIForm.resources
+C:\Users\taufe.DESKTOP-U2KV46G\OneDrive - Lake Washington School District\4 AP Computer Science\WUMPUS FILES\Taufeeq Ali (Game Control)\WumpusTest\GameControl\obj\Debug\WumpusTest.SplashScreenForm.resources
+C:\Users\taufe.DESKTOP-U2KV46G\OneDrive - Lake Washington School District\4 AP Computer Science\WUMPUS FILES\Taufeeq Ali (Game Control)\WumpusTest\GameControl\obj\Debug\WumpusTest.ScreenOfDeathForm.resources
+C:\Users\taufe.DESKTOP-U2KV46G\OneDrive - Lake Washington School District\4 AP Computer Science\WUMPUS FILES\Taufeeq Ali (Game Control)\WumpusTest\GameControl\obj\Debug\WumpusTest.HighScoreDisplayForm.resources
+C:\Users\taufe.DESKTOP-U2KV46G\OneDrive - Lake Washington School District\4 AP Computer Science\WUMPUS FILES\Taufeeq Ali (Game Control)\WumpusTest\GameControl\obj\Debug\WumpusTest.csproj.GenerateResource.cache
